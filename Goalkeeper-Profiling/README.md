@@ -12,7 +12,7 @@ A Python analytics suite that evaluates football goalkeepers based on Shot Stopp
 ### 1. Performance Matrix
 A quadrant analysis comparing Shot Stopping (PSxG+/-) vs. Passing Reliability. Includes "Smart Labels" to avoid clutter and storytelling annotations to define player roles (e.g., "Complete Keeper" vs. "Traditional Shot Stopper").
 
-![Performance Scatter](outputs/Scatter_Story.png)
+![Performance Scatter](Output/Scatter_Story.png)
 
 ### 2. Profile Heatmap
 A ranked leaderboard of the top 20 goalkeepers, graded on three specific roles:
@@ -20,7 +20,7 @@ A ranked leaderboard of the top 20 goalkeepers, graded on three specific roles:
 * **Ball Player:** Passing range and accuracy.
 * **Sweeper:** Defensive actions outside the penalty area.
 
-![Profile Heatmap](outputs/Heatmap_Profile.png)
+![Profile Heatmap](Output/Heatmap_Profile.png)
 
 ## 🚀 Setup & Usage
 
